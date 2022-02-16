@@ -1,5 +1,6 @@
 Olá, sou Eduarda Santiago 
-🖥️ Desenvolvimento Front-End
+##
+-🖥️ Desenvolvimento Front-End
 🌱 Estudando HTML, CSS e JavaScript
 🎓 Cursando Segurança da Informação
 
