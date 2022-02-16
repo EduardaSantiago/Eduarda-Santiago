@@ -1,4 +1,9 @@
-# Eduarda-Santiago
+Olá, sou Eduarda Santiago 
+🖥️ Desenvolvimento Front-End
+🌱 Estudando HTML, CSS e JavaScript
+🎓 Cursando Segurança da Informação
+
+
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
